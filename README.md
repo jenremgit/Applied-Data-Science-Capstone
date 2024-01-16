@@ -1,3 +1,2 @@
-# My-Data-Science-Repo
-My first repo for data science class  
-More info to come
+# Applied-Data-Science-Capstone-Repo
+This repo holds notebook and other files for the Applied Data Science Captsone project
